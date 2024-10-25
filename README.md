@@ -1,0 +1,2 @@
+# Docuseal
+Docuseal auf Kubernetes
